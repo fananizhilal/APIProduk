@@ -1,0 +1,28 @@
+{
+  "produk": [
+    {
+      "nama": "Pisang",
+      "gambar": "https://imgtr.ee/images/2023/08/05/6ac4000559a5f53aff8456fcbb6004e3.jpeg",
+      "harga": "10000",
+      "berat": "1000 gr"
+    },
+    {
+      "nama": "Jeruk",
+      "gambar": "https://imgtr.ee/images/2023/08/05/118164624751bcb63a6df6588bdf2650.png",
+      "harga": "25000",
+      "berat": "1000 gr"
+    },
+    {
+      "nama": "Anggur",
+      "gambar": "https://imgtr.ee/images/2023/08/05/ce83cec2686ccb7e3e07c78e70ff3377.jpeg",
+      "harga": "27000",
+      "berat": "1000 gr"
+    },
+    {
+      "nama": "Melon",
+      "gambar": "https://imgtr.ee/images/2023/08/05/6903e1ff7face53fdf72bdc3e8baf25a.png",
+      "harga": "30000",
+      "berat": "1000 gr"
+    }
+  ]
+}
