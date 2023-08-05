@@ -1,0 +1,94 @@
+{
+  "produk": [
+    {
+      "nama": "Pisang",
+      "gambar": "https://ittelkom-sby.ac.id/wp-content/uploads/2022/10/Salinan-IMG_0823-768x512.jpg",
+      "harga": "10000",
+      "berat": "1000 gr"
+    },
+    {
+      "nama": "Jeruk",
+      "gambar": "https://drive.google.com/file/d/1WJxHSca0a8El6R6E90TcHWmXuve49cph/view?usp=share_linkgaaaafeefeagfwe",
+      "harga": "25000",
+      "berat": "1000 gr"
+    },
+    {
+      "nama": "Anggur",
+      "gambar": "https://drive.google.com/file/d/1WCnaNor6BoGHjear472pQaMqiD06HbWH/view?usp=share_link",
+      "harga": "27000",
+      "berat": "1000 gr"
+    },
+    {
+      "nama": "Melon",
+      "gambar": "https://drive.google.com/file/d/1OAICGK5wYMMh0mnqreIwXghJrDrJzbhg/view?usp=share_link",
+      "harga": "30000",
+      "berat": "1000 gr"
+    },
+    {
+      "nama": "Kangkung",
+      "gambar": "https://drive.google.com/file/d/1Uz8ceGjAXgDCIJdlopEM3vL61Nr4_av9/view?usp=share_link",
+      "harga": "5000",
+      "berat": "250 gr"
+    },
+    {
+      "nama": "Sawi",
+      "gambar": "https://drive.google.com/file/d/1tfH_frYJbVTfhHjHbmJbUwtEVxQE-W57/view?usp=share_link",
+      "harga": "5000",
+      "berat": "500gr"
+    },
+    {
+      "nama": "Tomat",
+      "gambar": "https://drive.google.com/file/d/17CTPjTL9ZvmIxvY9U0luknSWLFLeltXf/view?usp=share_link",
+      "harga": "13000",
+      "berat": "500 gr"
+    },
+    {
+      "nama": "Kubis",
+      "gambar": "https://drive.google.com/file/d/1Uz8ceGjAXgDCIJdlopEM3vL61Nr4_av9/view?usp=share_link",
+      "harga": "10000",
+      "berat": "1000 gr"
+    },
+    {
+      "nama": "Teh Manis",
+      "gambar": "https://drive.google.com/file/d/10ZSeNQy54ZhmWDh7UOHPAi97nc9DwE2v/view?usp=share_link",
+      "harga": "5000",
+      "berat": "500 gr"
+    },
+    {
+      "nama": "Jus Buah",
+      "gambar": "https://drive.google.com/file/d/19TSnJydKVVFIEQU5Ruv7kJyVcEfyxFZ2/view?usp=share_link",
+      "harga": "10000",
+      "berat": "500 gr"
+    },
+    {
+      "nama": "Air Mineral",
+      "gambar": "https://drive.google.com/file/d/16f7dH2e-YAmSqlXCR_55vz5_AD5Kj1AJ/view?usp=share_link",
+      "harga": "5000",
+      "berat": "750 gr"
+    },
+    {
+      "nama": "Susu",
+      "gambar": "https://drive.google.com/file/d/1Abolp7EO05PfP_USECP80TOjDG8TbRKf/view?usp=share_link",
+      "harga": "10000",
+      "berat": "500 gr"
+    },
+    {
+      "nama": "Rice Bowl",
+      "gambar": "https://drive.google.com/file/d/176tVr8l79Cgr-sYp_fGvUvTZseZ05GPt/view?usp=share_link",
+      "harga": "15000",
+      "berat": "500ml"
+    },
+    {
+      "nama": "Nasi Goreng",
+      "gambar": "https://drive.google.com/file/d/1GOZja39kmCsbP_EgaRnvM69WAIAumBU8/view?usp=sharing",
+      "harga": "15000",
+      "berat": "300 gr"
+    },
+    {
+      "nama": "Nasi Uduk",
+      "gambar": "https://www.google.aefefaefcom/url?sa=i&url=https%3A%2F%2Fwww.cnnindonesia.com%2Fgaya-hidup%2F20191014135537-255-439318%2F5-manfaat-pisang-atasi-anemia-hingga-turunkan-berat-badan&psig=AOvVaw1E55_c8Xdqp0zzg4AavabD&ust=1691342074712000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPD2ya-CxoADFQAAAAAdAAAAABAE",
+      "harga": "15000",
+      "berat": "30000akdgadgafhaefaaefaefaef gr"
+    }
+  ]
+}
